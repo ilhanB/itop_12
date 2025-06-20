@@ -11,3 +11,4 @@ yapılacaklar:
 10. dal üzerinden yeni dal açıldı
 11. ilhan 2 dalı oluşturuldu
 13. i3 dalına geçildi
+14. yeni görev oluşturuldu
