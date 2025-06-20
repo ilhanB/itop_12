@@ -4,4 +4,6 @@ yapılacaklar:
 3. İngilizce çalış
 4. IT çalış
 5. Ara vermeyi ihmal etme
+6. yeni dal oluşturuldu
+7. değişiklikleri işle
 
