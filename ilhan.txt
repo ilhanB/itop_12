@@ -1,0 +1,5 @@
+yapılacaklar:
+1. Zaman planlaması yap
+2. Almanca çalış
+3. İngilizce çalış
+4. IT çalış
