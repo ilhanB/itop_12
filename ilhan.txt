@@ -8,3 +8,5 @@ yapılacaklar:
 7. değişiklikleri işle
 8. yeni kod eklendi
 9. vs code üzerinden devam et
+10. dal üzerinden yeni dal açıldı
+
